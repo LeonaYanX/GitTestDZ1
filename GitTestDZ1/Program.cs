@@ -6,7 +6,6 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("GitTestDZ1!");
-            Console.WriteLine("GitTestDZ2!");
         }
     }
 }
