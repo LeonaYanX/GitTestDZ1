@@ -8,6 +8,7 @@
             Console.WriteLine("GitTestDZ1!");
             Console.WriteLine("GitTestDZ2!");
             Console.WriteLine("GitTestDZ2! second commit");
+            Console.WriteLine("GitTestDZ2! third commit");
         }
     }
 }
