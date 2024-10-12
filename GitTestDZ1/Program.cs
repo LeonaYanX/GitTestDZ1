@@ -9,6 +9,9 @@
 
             Console.WriteLine("GitTestDZ2!");
             Console.WriteLine("GitTestDZ2! second commit");
+
+            Console.WriteLine("New feature!");
+            Console.WriteLine("New feature! Again!");
             
         }
     }
